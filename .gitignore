@@ -1,0 +1,5 @@
+server1/maps/*
+server1/font/*
+server1/pak/*
+*.so
+*.log
