@@ -218,19 +218,19 @@ function vaovuhon()
 	SetRank(97);
 	SetSeries(3);
 	SetLastFactionNumber(11);
-	AddMagic(1963,0)
-	AddMagic(1964,0)
-	AddMagic(1965,0)
-	AddMagic(1971,0)
-	AddMagic(1972,0)
-	AddMagic(1974,0)
-	AddMagic(1975,0)
-	AddMagic(1976,0)
-	AddMagic(1977,0)
-	AddMagic(1979,0)
-	AddMagic(1980,0)
-	AddMagic(1981,0)
-	AddMagic(1982,0)
+	AddMagic(1972,0) -- 10
+	AddMagic(1974,0) -- 10 D
+	AddMagic(1964,0) -- 10 buff
+	AddMagic(1975,0) -- 10 buff D
+	AddMagic(1976,0) -- 20 D
+	AddMagic(1965,0) -- 30
+	AddMagic(1977,0) -- 30 D
+	AddMagic(1963,0) -- 40
+	AddMagic(1979,0) -- 40 D
+	AddMagic(1980,0) -- 50
+	AddMagic(1982,0) -- 60 TP
+	AddMagic(1971,0) -- 60
+	AddMagic(1981,0) -- 60 D
 	--AddMagic(1967,20)--
 	--AddMagic(1969,20)--
 	--AddMagic(1983,20)--
