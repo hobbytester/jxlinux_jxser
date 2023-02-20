@@ -15,7 +15,7 @@ function dialog_vocong_main()
 	local szTitle = "Xin chµo <color=red>"..GetName().."<color> ! §¹i hiÖp häc vâ c«ng g×?"
 	local tbOpt=
 	{
-	"Vµo ph¸i vµ häc ®Õn skill 150/choose_faction",
+	"Vµo ph¸i vµ häc ®Õn skill 60/choose_faction",
 	"Häc khinh c«ng/khinhcong",
 	"NhËn c¸c lo¹i ®iÓm/CacLoaiDiem",
 	"LÊy Skill Theo ID/LaySkillID",
@@ -202,11 +202,11 @@ function vaohoason()
 	AddMagic(1380,0)
 	AddMagic(1360,0)
 	AddMagic(1358,0)
-	AddMagic(1364,20)--
-	AddMagic(1382,20)--
-	AddMagic(1365,20)--120
-	AddMagic(1384,20)--
-	AddMagic(1369,20)--
+	--AddMagic(1364,20)--
+	--AddMagic(1382,20)--
+	--AddMagic(1365,20)--120
+	--AddMagic(1384,20)--
+	--AddMagic(1369,20)--
 	--AddMagic(1370,20)--180
 	Talk(1, "KickOutSelf", "Ng­¬i ®· gia nhËp thµnh c«ng ph¸i <color=yellow>Hoa S¬n")
 end
@@ -231,11 +231,11 @@ function vaovuhon()
 	AddMagic(1980,0)
 	AddMagic(1981,0)
 	AddMagic(1982,0)
-	AddMagic(1967,20)--
-	AddMagic(1969,20)--
-	AddMagic(1983,20)--
-	AddMagic(1984,20)--
-	AddMagic(1985,20)--
+	--AddMagic(1967,20)--
+	--AddMagic(1969,20)--
+	--AddMagic(1983,20)--
+	--AddMagic(1984,20)--
+	--AddMagic(1985,20)--
 	--AddMagic(1986,20)--180
 	Talk(1, "KickOutSelf", "Ng­¬i ®· gia nhËp thµnh c«ng ph¸i <color=yellow>Vò Hån")
 end
@@ -305,13 +305,13 @@ function do_set_faction(nIndex)
 		return
 	end
 	DynamicExecuteByPlayer(PlayerIndex, "\\script\\gmscript.lua", "AddSkills", %tbFaction[nIndex].nShortFaction, 0)
-	for i=1, getn(%tbFaction[nIndex].tbSkill) do--Add Skill 90-120-150-180
-		if %tbFaction[nIndex].tbSkill[i] == 1110 then
-			AddMagic(%tbFaction[nIndex].tbSkill[i], 0)
-		else
-			AddMagic(%tbFaction[nIndex].tbSkill[i], 20)
-		end
-	end
+	--for i=1, getn(%tbFaction[nIndex].tbSkill) do--Add Skill 90-120-150-180
+	--	if %tbFaction[nIndex].tbSkill[i] == 1110 then
+	--		AddMagic(%tbFaction[nIndex].tbSkill[i], 0)
+	--	else
+	--		AddMagic(%tbFaction[nIndex].tbSkill[i], 20)
+	--	end
+	--end
 	for i=1, getn(%tbFaction[nIndex].tbRank) do--Add X­ng HiÖu
 		SetRank(%tbFaction[nIndex].tbRank[i])
 	end
