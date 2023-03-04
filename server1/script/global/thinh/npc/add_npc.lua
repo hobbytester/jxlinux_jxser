@@ -5,6 +5,7 @@ dialognpc_thinh = {
 {1393,78,1589,3286,"\\script\\global\\thinh\\npc\\npc_trangbi.lua","NPC Trang BÞ"}, 
 {173,53,1635,3177,"\\script\\global\\thinh\\npc\\npc_vocong.lua","NPC Vâ C«ng"}, 
 {2129,53,1622,3168,"\\script\\global\\thinh\\rskinhmach\\rskinhmach.lua","NPC Kinh m¹ch"}, 
+{1282,78,1606,3224,"\\script\\global\\thinh\\hotro\\functions_partner_task.lua","NhiÖm vô §ång Hµnh"},
 }
 
 ketrom = {
