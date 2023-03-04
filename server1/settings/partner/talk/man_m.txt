@@ -1,51 +1,51 @@
 talk_id	friend010	friend1019	friend1949	friend4984	friend8495	friend95100
-1	¾ÍÄãÕâÈý½ÅÃ¨µÄ¹¤·ò»¹Ñ§±ðÈË´³½­ºþ£¿	ÈÊÐÖ£¬ÄãÔõÃ´Ò»¿´µ½ÃÀÅ®Á½ÑÛ¾Í·Å¹â¡£	ÈËµÄÆÆ»µÓûÊÇ·Ç³£¿ÉÅÂµÄ£¬µ«Í¨¹ýÐÞÐÐ¿ÉÒÔ»¯½â¡£	¶ëáÒÉ½µÄ·ç¾°ÌìÏÂÎÅÃû£¬ÓÈÆäÊÇ·ð¹â£¬¼ûµ½·ð¹â»á´øÀ´¸£ÆøµÄ¡£	×òÈÕÎÒºÈµÃÕæÍ´¿ì£¬ÏÖÔÚÍ·ÓÐµã»è£¡	½ñÌìÄãµÄÆøÉ«²»´í°¡£¡
-2	ÎÒÖ»ÊÇÎªÇ®¹¤×÷¡£	ÎÒÃ¿ÌìÔçÍí¶¼»áÓÃÑÎË®Êþ¿Ú£¬ÄãÒ²ÒªÑø³ÉÕâÏ°¹ß¡£	°¦£¬ÈËÉúÕæÊÇ³äÂúÁË±¯ÉËºÍÍ´¿à°¡£¡	Ø¤°ïµÄÄÇÐ©µÜ×ÓÕæÊÇÎÞ¿×²»Èë°¡£¬ÄÄ¶¼ÄÜ¼ûµ½ËûÃÇµÄÉíÓ°¡£	Ç°¼¸ÈÕºÈ×íºó£¬µ¹ÔÚÂ·±ßË¯ÁË£¬ÏÖÔÚÅ¼¸Ð·çº®¡£	ÆäÊµÎÒ¼Ò×æÉÏÒ²Ôø¾­ÓÐ¹ýÎª¹ÙÖ®ÈË¡£
-3	Äã×ÜÊÇÕ¾ÄÇÃ´ÀÏÔ¶¸ÉÊ²Ã´£¿£¡ÎÒËÀÁËÄãÒ²»î²»³É£¡	ÎÒ×î·³¶¬ÌìÁË£¬Ò»ÏÂÑ©Â·¾Í½á±ù£¬ÈÝÒ×Ë¤½»¡£	ÎÒÎªÊ²Ã´×ÜÊÇ´í¹ý×Ô¼ºµÄÔµ·ÖÄØ£¿	ÎÒ×îÏ²»¶ôä´ä£¬ËüµÄÑÕÉ«ÊÇÄÇÃ´Ò«ÑÛ£¬ÁîÈË°®²»ÊÍÊÖ¡£	³É¶¼µÄÀÏÊó±È±ðµÄµØ·½µÄ¶¼·Ê£¬¿´À´ÄÇÀïµÄÉú»î»¹²»´í¡£	ÄÇ¸öÎÒÉî°®µÄÅ®ÈËÀë¿ªÎÒµÄÔ­ÒòÖ»ÓÐÒ»¸ö£¬ÊÇÎÒµ±Ê±Ì«²»¶®µÃÕäÏ§ÁË¡£
-4	±ð×ßÕâÃ´¿ì£¬ÎÒÐèÒªÐÝÏ¢Ò»ÏÂ¡£	Âí²½¶¼Ôú²»ÎÈ£¬»¹ÒªÑ§¹¦·ò£¬ÄãÏÈÁ·»ù±¾¹¦°É¡£	½ñÄêÎÒÒ»¶¨ÒªÔÜ¹»ÀÏÆÅ±¾£¬½ÚÔ¼Ã¿Ò»ÎÄÇ®¡£	´ó¸çÃ»ÓÐÏ²»¶µÄÅ®×ÓÃ´£¿	¸Õ²Å¹ýÈ¥µÄÐ¡Äï×ÓÊÇÄÄÎ»°¡£¿	Ê§È¥µÄ¶«Î÷£¬ÍùÍùÎÞ·¨ÕÒ»Ø¡£
-5	°¥£¬Ìýµ½ÁËÃ»ÓÐ£¬ÎÒÃÇµÃÐÝÏ¢Ò»ÏÂ£¡	ÎÒÕæÊÇÊ§°Ü°¡£¬ÓÖ±»Å®º¢¸øË¦ÁË¡£	ÄãÒ²Ó¦¸ÃÕÒÒ»¸öÇéÍ¶ÒâºÍµÄ¹ÃÄïÁË£¬¹þ¹þ£¡	ÕæÆæ¹Ö£¬×î½üÀÏÌìÒ¯×ÜÊÇ²»ÏÂÓê£¡	Ôø¾­ÎÒÒ²Éî°®¹ýÒ»¸öÅ®×Ó£¬µ«×îºóËýÀë¿ªÁËÎÒ¡£	¹ýÄêÎÒÒ»¶¨Òª»ØÀÏ¼Ò¿´¿´£¬ÅãÎÒµùÄï³Ô¶ÙÍÅÔ²·¹¡£
-6	ËäÈ»Éú´¦ÂÒÊÀ£¬È´¸øÁËÎÒ¸ü¶à¿ÉÒÔÊ©Õ¹±¾ÁìµÄ»ú»á¡£	ÎªÊ²Ã´ÄãµÄÂíÕâÃ´²»Ìý»°£¬°ÑÎÒÌßÁË¸ö´ó¸ú¶·¡£	µ±³õÎÒÌÓ»é²»ÖªµÀÊÇ²»ÊÇ¶ÔµÄ£¿	¶Ø»ÍÊÇÒ»¸ö³äÂúÉñÃØÁ¦Á¿µÄµØ·½£¬ÎÒÃÇÒ»¶¨ÒªÈ¥Ì½·ÃÒ»ÏÂ¡£	°ÙÐÕµÄÉú»îºÜÀ§¿à£¬×ö»ÊµÛµÄÒ²¸ÃÇÚ¼óÒ»ÏÂ¡£	½ñÌìÃ»ÓÐÊ²Ã´ÌØ±ðµÄÊÂ·¢Éú¡£
-7	ÄãÎªÊ²Ã´¶øÐÐ×ß½­ºþÄØ£¬²»»áÖ»ÎªÁË²Æ¸»ºÍÃûÉù°É¡£	ÄãÒª¸ºÔðÎÒµÄµÄÒ½ÁÆ·Ñ£¬ÎÒÉíÉÏµÄÉËÔ½À´Ô½¶àÁË¡£	Ôø¾­ÎÒÓÐ¸öÍ¯ÑøÏ±£¬ºóÀ´Ëý±»ÎÒÄï·Å×ßÁË¡£	ÏÝÈëÁËÕ½ÂÒµÄ´óËÎ£¬°ÙÐÕÉú»îÔÚË®Éî»ðÈÈµ±ÖÐ£¬Ï£ÍûÔÙÒ²²»»áÓÐÕ½ÕùÁË¡£	¶àºÍ³ÇÀïµÄÆòØ¤´ò´ò½»µÀ£¬ËûÃÇÖªµÀºÜ¶àÊÂÇéµÄ¡£	ÎÒ¿´´ó¸ç×î½üÊ³Óû²»Õñ£¬ÎÒÈ¥×¥Ð©Ò©À´¸øÄãºÈ£¡
-8	×î½üÒÑ¾­¿´²»µ½½ðÈËµÄÓ°×ÓÁË¡£	ÖìÏÉÕòµÄ¼ýÍ·£¬ÊÇÎÒ°Ý°ÑÐÖµÜ¡£	ÎÒÄïÊÇ¸ö·Ç³£ÉÆÁ¼µÄÈË¡£	µÈ´ó¸ç³ÉÁË½­ºþÖÐµÄ´óÏÀ£¬ÎÒÒ²¿ÉÒÔÑîÃûÌìÏÂÁË¡£	Îäµ±µÄÒ»¸öÅ£±Ç×ÓÀÏµÀ£¬Ôø¾­ÆÛ¸ºÎÒ°³£¬ÎÒÒ»¶¨Òª±¨³ð¡£	Õâ¸ö¼¾½ÚÉ½ÀïµÄÄ¢¹½ÌØ±ð¶à£¬ÎÒÃÇÒ²È¥²ÉÒ»Ð©À´°É¡£
-9	ÈËÊÇÌú£¬·¹ÊÇ¸Ö£¬Ò»¶Ù²»³Ô¶öµÄ»Å¡£	ÏÂ»ØÂ·¹ý´äÑÌÃÅÊ±£¬ÎÒÒª¶àÇÆÁ½ÑÛ£¬¿´¿´ÓÐÃ»ÓÐÃÀÅ®£¡	ÄÇÈÕÔÚ¾©³Ç¿´µ½Ò»¸öÉí±ßÓÐºÃ¶à»¤ÎÀµÄÅ®×Ó£¬²»ÖªËýÊÇÊ²Ã´À´Àú¡£	ÎÒ×îÏ²»¶³ÔµÄ¶«Î÷¾ÍÊÇ°ü×ÓÀ²¡£	×öÎªÄÐÈËÎÒÃÇÓ¦¸Ã¸üÇÚ·Ü¡£	ÉÏ´ÎÎÒÊÜÉË³ÐÃÉ´ó¸çÕÕ¹ËÁË¡£
-10	Ç°ÈÕ´òÒ»»ïÔôÈËÊ±£¬¼ûÄãÄÃÁË²»ÉÙ²Æ±¦¡£	Ïëµ±ÄêÎÒÒ²ÔøÊÇÒ»´ú´óÏÀ£¬Èç½ñÂÙÂäµ½µ±ÈËËæ´ÓÁË¡£	ÎÒ½¨ÒéÄã°ÑÊÖÉÏµÄÎÛÑªÏ´µôÔÙ³Ô¶«Î÷°É¡£	ËäÈ»¶Ä²©²»ºÃ£¬¿ÉÊÇÅ¼¶ûÎÒÒ²»áÈ¥ÊÔÊÔÊÖÆø¡£	Å®ÈË³£³£ËµÒª¼ÞÓÐÔðÈÎ¸ÐµÄÄÐÈË£¬²»ÖªµÀÕâ¸ö±ê×¼ÊÇÊ²Ã´ÑùµÄ£¿	Ö»ÒªÓÐÎÒÔÚ£¬Ò»¶¨²»»áÈÃ´ó¸çÊÜÉËµÄ¡£
-11	ÈÕÂäÎ÷É½£¬ÎÒ¾Í²»ÔÙ¹¤×÷ÁË£¬ÄãÌýºÃ¡£	±¯°§°¡£¬ÎÒÎªÊ²Ã´Ò»¸öÖª¼º¶¼Ã»ÓÐ£¡	³¤Ê±¼äÔÚÎÝ×ÓÀï×ø×Å²»ÀûÓÚÉíÌå½¡¿µ¡£	Ã÷Ö®²»¿ÉÎª¶øÎªÖ®£¬Õâ¾ä»°ÊÇÊ²Ã´ÒâË¼£¿	É¶Ê±ºòÎÒ²ÅÄÜÓÐ¸ö×Ô¼ºµÄ¼Ò£¿	ÎÒÃÇÊÇºÃÐÖµÜ¶Ô°É£¿
-12	ÎÒËµÈÊÐÖ£¬ÎÒÃÇËäÈ»ÊÇÄÐÈË£¬Ò²²»ÄÜ×ÜÊÇ²»Ï´Ôè°É£¿	ÇïÌìÀ´ÁË£¬ºì¹ûÒ²¸ÃÊìÁË¡£	ÓÐÊ±È¥É½ÀïÓÎÍæÒ²ºÜÓÐÒâË¼ÄØ£¡	ËÄÊéÎå¾­ÎÒÒÑ¾­¶Á¹ýÁË£¬µ«ÈÔÈ»²»¶®ÆäÖÐ¾«Ëè¡£	ÏÖÔÚµÄÐ¡º¢Ô½À´Ô½µ÷Æ¤£¬¾ÓÈ»ÄÃÁËÎÒµÄÎäÆ÷À´Íæ£¡	ÏÄÌìÔÚ³ØÌÁ±ß£¬ÔÂ¹âÏÂ£¬ÐÀÉÍºÉ»¨±ðÓÐÒ»·¬ÇéÈ¤¡£
-13	ËäÈ»ÎÒÄËÒ»½éÎä·ò£¬µ«Ò²Ôø¶Á¹ýËÄÊéÎå¾­¡£	ÎÒ²»³ÉÇ×µÄÔ­ÒòÊÇº¦ÅÂÅ®ÈË¶ÔÒÂ·þºÍÊÎÎïµÄ¿ÊÍû£¡	ÃíÀïÔÚÇÃÖÓ£¬Í¦ºÃÌýµÄÊÇ°É£¿	½ðÈËËäÈ»×ßÁË£¬ÏÖÔÚÑØº£ÓÖÄÖÆðÙÁ¿ÜÀ´ÁË¡£	½ñÌìÎÒÊÕÊ°°ü¸¤Ê±£¬·¢ÏÖÐ¡Ê±ºòÍæµÄµ¯¹­ÁË£¡	ÎÒÊÕµ½ÃÃ×ÓµÄÀ´ÐÅÁË£¬ËýËµµùÄïÒ»ÇÐ¶¼ºÃ¡£
-14	Ã¿Ìì±¼²¨ÀÍÂµ£¬ÎÒÒÑ¾­Ñá¾ëÁË¡£	Å®ÈË¼ûÁËÒÂ·þÌ¯¾Í×ß¶¯µÀ¶ù£¬ÕâµãÔÚÎÒÃÃÃÃÉíÉÏÓ¡Ö¤ÁË¡£	ÎÒºÜÏ²»¶ÔÚÐ¡ÓêÊ±µ½ºÓ±ßÂþ²½¡£	ÓÐÊ±¼´Ê¹ÈËÓµÓÐÁËÇ¿´óµÄÁ¦Á¿×îºóÒ²ÊÇÓôÓô¶øÖÕÁË¡£	½­ÄÏËÄ´ó²Å×Ó£¬Äã¿ÉÌý¹ýÕâ¸öÃûºÅ£¿	Ã¿ÌìÒª¼á³ÖºÈ¶¹½¬£¬ÌýËµÄÇÑùÉíÌå»á±ä½áÊµ¡£
-15	ºÍÄãÕâ¸öÈËÔÚÒ»ÆðÕæµÄºÜÃ»ÒâË¼¡£	ÒÔÇ°ÎÒÄï¸øÎÒËµ¹ýÒ»¸öÏ±¸¾£¬³ÉÇ×ÄÇÌìÎÒÅÜµôÁË¡£	Äã³Ô¹ý÷©ÓãÃ´£¬Î¶µÀ¼«ÆäÏÊÃÀ¡£	²»ÖªµÀÌìÏÂµ½µ×ÓÐÃ»ÓÐÁú£¬Èç¹ûÄÄÌìÄÜÇ×ÑÛ¿´µ½¾ÍºÃÁË£¡	ÌìÈÌ½ÌµÄ½ÌÖ÷ÔøÓëÎÒÓÐÒ»ÃæÖ®Ôµ¡£	°¥Ñ½£¬ÒÑ¾­ÈÕÉÏÈý¸ÍÁË£¬ÎÒÃÇ¸Ï½ôÉÏÂ·°É£¿
-16	½­ºþÏÕ¶ñ£¬ÎÒÒÑ¾­ÃÈÉúÈ¥Òâ¡£	ÄãÕâ¸öÈËÕæÊÇÎÞÈ¤°¡£¬Á¬ÍæÐ¦Ò²²»»á¿ª¡£	ÏñÎÒÃÇÕâÑùµÄ½­ºþÖÐÈË£¬ÊÇ²»Ó¦¸ÃÈ¢Ç×µÄ£¬ÒòÎªÎÒÃÇËÄº£Îª¼Ò¡£	½ð£¬Ä¾£¬Ë®£¬»ð£¬ÍÁÎåÐÐµ÷ºÍ²ÅÄÜÊ¹ÍòÎï´ïµ½Æ½ºâ¡£	¶ëáÒµÄµÜ×Ó´ÓÀ´²»Ëæ±ãÓëÄÐ×ÓËµ»°£¡	´ó¸çµÄÒÂ·þÒÑ¾­ÆÆÁË£¬ÓÐÊ±¼äÎÒ°ïÄã²¹ºÃ°É£¬±ð¿´ÎÒ´ÖÊÖ´Ö½Å£¬Ò²»áµãÕëÏß»îÄÅ¡£
-17	ÎÒÒÑ¾­×ß¹ýÁË´ó½­ÄÏ±±£¬Ï£ÍûÓÐ»ú»áµ½º£Íâ¿´¿´¡£	°¥£¿µØÏÂÔõÃ´ÓÐÁ½ÎÄÇ®£¿	ËêÊý´óÁËÒÔºó£¬ÎÒ¿ÉÄÜ»á³ö¼ÒÎªÉ®¡£	ÎÒÃÇ´óËÎÈËÓ¦¸Ã¸ü¼ÓÍÅ½á£¬ÕâÑù²Å»á¸üÇ¿´ó¡£	×î½üµÄÎÃ×ÓºÜ¶à°¡£¬Ò§µÃÎÒ»ìÉíÊÇ°ü¡£	ÐÂµÄÒ»ÄêÓÖÒªÀ´µ½ÁË£¬ÎÒÒª¶ÔÒÔºóµÄÈÕ×Ó×ö¸ö´òËã£¡
-18	ÕûÌì¾Í³Ô´ó±ý£¬ÎÑÍ·£¬ÎÒÄÄÓÐÁ¦ÆøÉ±µÐ£¿	ÎÒ²»ÊÇÄãµÄËæ´Ó£¬ÊÇÄãµÄ°ïÊÖ¡£	¸½½üÉ½ÉÏÓÐ²»ÉÙÊ¯Í·ÄÜ·¢³ö¶áÄ¿µÄ¹â»Ô¡£	òùòðÊÇÎÒ×îÑá¶ñµÄ¶«Î÷£¡	´ó¸ç£¬ÔÛÃÇ×îºÃ±ÜÃâÔÚÉ½ÀïÂ¶ËÞ£¬ÍíÉÏÓÐÒ°ÊÞ³öÃ»µÄ¡£	»Ø¼Ò¹ýÄêÒ²ÓÐ²»ºÃµÄµØ·½£¬Òª¸øÍâÉû£¬Ö¶×ÓÃÇÑ¹ËêÇ®¡£
-19	¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­	Ç®°¡£¬Ç®£¬ÎÒÔõÃ´×ÜÊÇÕâÃ´Çî¡£	É½ÉÏ¿ª³öÀ¼»¨ÁË£¬µ½´¦¶¼ÊÇÏãÎ¶¡£	ÎÒÓÐÊ±»áÃÎÓÎ£¬Äã·¢ÏÖµÄÊ±ºòÇ§ÍòÒª¿´½ÐÐÑÎÒ°¡¡£	ÔõÃ´°ì£¬»¹ÓÐÊ®ÌìÎÒÃÃ×Ó¾ÍÒª¹ýÉú³½ÁË£¬ÎÒ»¹Ã»ÓÐÏëºÃËÍÊ²Ã´ÀñÎï¡£	½ñÌì±¾À´ÏëÈ¥¶Ä·»£¬µ«ÊÇÏëÆð´ó¸çµÄ»°£¬ÎÒ¾ÍÈÌ×¡ÁË¡£
-20	Äã×òÌìËµÊ²Ã´À´×Å£¬ÒªÈ¥´³Ê²Ã´¹Ø£¿	²»ÖªµÀÊ²Ã´Ê±ºò²ÅÄÜÔÜ¹»ÀÏÆÅ±¾¡£	²»ÅÂÄãÐ¦»°£¬ÆäÊµÎÒÒ²·Ç³£Ï²»¶»¨»¨²Ý²Ý¡£	µØÀïµÄ×¯¼Ú¶¼»ÄÎßÁË£¬¸½½üµÄ´åÃñµ½ÄÄÈ¥ÁË£¿	Ï°ÎäÖ®ÈË×î¼É»äµÄÆäÊµ¾ÍÊÇÉ±ÉúÁË£¬²»ÄÜÓÃ±©Á¦È¥¶áÈ¡±ðÈËµÄÐÔÃü¡£	ÎÒ»¹ÒªÇÚ¼ÓÁ·Ï°²ÅÄÜ¸ÏÉÏ´ó¸çµÄÉíÊÖ°¡¡£
-21	ÎÒµÄÎäÆ÷ÒÑ¾­Ëð»µÁË£¬Ã÷ÌìÒªÈ¥ÐÞÀíÒ»ÏÂ¡£	ÓÐÐ©Ç£¹Ò¼ÒÀïµÄµùÄï£¬²»ÖªËûÃÇÉíÌå¿ÉºÃ£¿	ºÇºÇ£¬½ñÌìÎÒÊÕ¼¯µ½µÄ¿óÊ¯ÂôÁË¸öºÃ¼ÛÇ®¡£	ÕâÀïµÄ¹Â·ØÕæ¶à£¬¿ÖÅÂÊÇ¼¸ÄêÇ°Õ½ÂÒÊ±ÁôÏÂµÄ¡£	½ñÈÕÌì¿ÕÍòÀïÎÞÔÆ£¬»¹ÓÐÎ¢·ç´µ¹ý£¬ÕæÊÇÈÃÈËÆøË¬Éñâù°¡£¡	ÍíÉÏÌý³æÃù£¬ÍÜÃù·´¶øÈÝÒ×Ë¯µÃ³Á¡£
-22	Äã×ÜÊÇÈÃÎÒ´¦ÔÚÎ£ÏÕµÄ¾³µØ¡£	Ã¿ÌìÎÒÃÇ¶¼ÔÚÖØ¸´×öÒ»ÑùµÄÊÂ£¬ÕæÃ»ÒâË¼¡£	ÌìÉ«ÒÑÍí£¬ÎÒÃÇ»¹ÊÇ¿ì¿ìÕÒµØ·½Í¶ËÞ°É£¿	²»¹ÜÊÇ½ðÈË»¹ÊÇººÈË¶¼²»Ïë´òÕÌµÄ¡£	ÉÏ»ØÂ·¹ý³¤³ÇÊ±£¬ÎÒ¿´µ½Ê¿±øÃÇ¶¼ÔÚºÈ¾Æ³ÔÈâ£¬Ã»ÓÐ¼¸¸öÈËÈÏÕæÕ¾¸Ú¡£	ÍíÉÏÅãÎÒºÈºÈ¾Æ°É£¬¾ÆÂ¥»¹ÓÐ¸èÅ®£¬ÎèÅ®±íÑÝ¡£
-23	³ýÁËÎÒÓ¦¾¡µÄÖ°Ôð£¬ÆäËûµÄÊÂÇéÎÒÊÇ²»»áÀíµÄ¡£	Ôã¸â£¬ÎÒÍü¼Ç½ñÌìÊÇ²»ÊÇ»ÆµÀ¼ªÈÕÁË£¿	×òÌìÍíÉÏÎÒ¼ûµ½ÁËÁ÷ÐÇ£¬²»ÖªµÀ»á²»»áÓÐºÃÊÂ·¢Éú£¿	´ó°ëÒ¹µÄ×îºÃ±ð³öÃÅ£¬»áÅöÉÏÐ°Æø¡£	¼¸ÄêÇ°½ðÈËÒ»°Ñ»ð½«¸½½üµÄ´å×ÓÉÕ¹âÁË£¬Èç½ñÓÖ·±ÈÙÁËÆðÀ´£¡	º¼ÖÝÊÇ¸öºÃµØ·½£¬ÃÀÅ®¶à¡£
-24	ÕûÌìÕâÃ´ÐÁ¿à£¬ÄÜ¼ÓÐ½Ã´£¿	¸ù¾Ý»ÆÀúÉÏËµ£¬½ñÈÕÎÒ²»ÒËÍùÎ÷ÐÐ£¬»¹²»ÒË´©ºìÒÂ¡£	½ñÌìÎÒÃÇÓ¦¸ÃÍùÎ÷×ß£¬ÄÇÀïÊÇ¼ªÀûµÄ·½Ïò¡£	ÕâÐ©ÈÕ×ÓÒ»Ö±ÔÚËÄ´¦±¼²¨£¬¶¼Ã»ÓÐÊ±¼ä»»Ï´ÒÂ·þÁË¡£	ÔÚ±ß¾³µÄ¼¯ÊÐÉÏÏÖÔÚÒÑ¾­¿ÉÒÔ¿´µ½ººÈËºÍ½ðÈËÔÚ×öÂòÂôÁË£¡	ÎÒÈ¥Âò¼¸¸öÈâ°ü×Ó£¬´ø×ÅÂ·ÉÏ³Ô¡£
-25	Èç¹û¿ÉÒÔ»ÙÔ¼¾ÍºÃÁË£¡	ÓÐÊ±ËãÃüÏÈÉú¾ÍÊÇÎªÁË¶àÕõµãÒø×Ó£¬¶ÔÄãºúËµ°ËµÀµÄ¡£	ÉÏÖÜ¿´µ½Ò»¸öÄÐ×Ó£¬ÕæÊÇË§Æø·Ç³££¬Á¬ÎÒ¶¼ÏÛÄ½²»ÒÑ°¡¡£	ÎÚÔÆÁýÕÖ×ÅÌì¿Õ£¬¿´À´ÒªÏÂÒ»³¡´óÓêÁË¡£	µ½µ×»¹ÊÇ´óËÎµÄÍÁµØ¸»Êü°¡£¡	´ó¸çµÄ¼ÒÏçÔÚÄÄ£¿
-26	ÎÒÒ²ÊÇÈËÉúÈâ³¤µÄ£¬²»Òª°ÑÎÒµ±³ÉÄãÉ±µÐµÄ¹¤¾ß¡£	ÌìµØËä´ó£¬µ«È´Ã»ÓÐÎÒÒ»¸öÈÝÉíÖ®µØ£¬°¦£¡	ÎÒÊ²Ã´Ê±ºòÒ²ÄÜÓµÓÐºÀ»ªµÄÕ¬Û¡ÄØ£¿	°¦£¬ºÃ¼¸ÌìÃ»ÓÐ³ÔÉÏÈâÁË£¬ÒªÊÇÄÜÓÐÒ»Ì³Å®¶ùºì¾Í¸üºÃÁË¡£	ÎÒÉíÉÏÒÑ¾­ÓÐÎÞÊý¸öÉË°ÌÁË£¬²»½éÒâÔÙ¶àÌí¼¸¸ö£¬ºÇºÇ£¡	ÎÒ³öÉúÔÚ³É¶¼¸½½üµÄÒ»¸öÐ¡´å×Ó£¬ÄÇÀïÉ½ÇåË®Ðã£¬ÈË½ÜµØÁé¡£
-27	ÎÒ¾õµÃÄãÊÇ¸öÌ°ÉúÅÂËÀÖ®ÈË¡£	ÕâÃ´ÍíÁË£¬ÔÛÃÇ»¹Òª¸ÏÂ·°¡£¡	µ±³õÎÒµÄÑ¡Ôñ»á²»»áÊÇ´íÎóµÄÄØ£¿Éæ×ã½­ºþÕæµÄÊÇÎÒ¸Ã×ßµÄÂ·Âð£¿	½üÈÕÎÒµÄÉíÌåÓÐÐ©²»ÊÊ£¬ÐèÒª´ó²¹Ò»ÏÂ¡£	ÉÏÔÂ£¬ÎÒ±í¾ËµÄ´ó¹Ã×ÓÀ´ÁË£¬¸øÎÒ´øÁËÐí¶àÍÁ²ú¡£	ÇåÕôÓãµÄÎ¶µÀÌ«ºÃÁË£¬ÏëÆðÀ´¾ÍÁ÷¿ÚË®¡£
-28	ÄãÊÇ³Ô´óËâÁË°É£¿	ÄãµÄÂíËÆºõ¶öÁË£¡	ËäËµÄÐ¶ùÓÐÀá²»Çáµ¯£¬µ«ÓÐ±¯ÉËµÄÊ±ºòÒ²¸Ã·¢Ð¹³öÀ´¡£	ÈË²Î£¬ÁéÖ¥£¬Â¹È×¶¼ÊÇ²¹ÉíÌåµÄÒ©²Ä¡£	ÎÒÐÁ¿à»ýÔÜµÄÒøÁ½´ó²¿·Ý¶¼¸øÁËÄïºÍµù£¡	½Ð»¨¼¦¾Í×ÅÉÕ¾Æ¼òÖ±ÊÇÈË¼äÃÀÎ¶°¡£¡
-29	ÎÒÃ¿ÌìÌì²»ÁÁ¾ÍÆðÀ´Á·¹¦£¬ÄãÒ²Ó¦¸ÃÕâÑù¡£	ÎÒµÄ¶Ç×Ó¶öÁË£¬Ö»ÄÜ´ÕºÏ³ÔµãÉÕ±ýÁË¡£	Äã¼û¹ýÀ¶É«µÄ´óº£Âð£¬Ëü¿ÉÒÔ¾»»¯ÈËµÄÐÄÁé¡£	ºÃ¾ÃÃ»ÓÐºÈµ½²èÁË£¬ÓÐÊ±¼äÔÛÃÇµ½²è¹ÝÀïÈ¥Ò»×øÆ¬¿Ì°É£¿	Ã÷ÄêÎÒ¼ÒÒª¸ÇÈý¼ä´ó·¿×Ó£¬ÈÃÎÒÈ¢Ï±¸¾ÓÃ¡£	ÎÒÃÇÍíÉÏÍ¶ËÞÊ±£¬Ï´¸öÈÈË®Ôè°É£¿
-30	Äã»á²»»áÓÎÓ¾£¬¾­³£ÓÎÓ¾ÄÜ¶ÍÁ¶¹Ç÷ÀºÍ¼¡Èâ¡£	ÎÒÕæµ£ÐÄÏÂ´ÎºÍÄãÉ±¹ÖÊ±£¬¹âÈÙÎþÉü£¡	ÎÒ¼û¹ýÒ»»ØÌì¹·ÍÌÈÕ£¬²»ÖªÄã¼û¹ýÃ»ÓÐ£¿	Ìýµ½ÎÚÑ»½ÐÁËÃ»ÓÐ£¬Õâ¿ÉÊÇ»áµ¹Ã¹µÄ¡£	´ó¸ç£¬ÎÒÃÇÒ²ÊÇÈÈÑªÇàÄê£¬Ó¦¸ÃÈ¥¸ÉÒ»·¬´óÊÂÒµ¡£	³É¶¼Ð¡³ÔÎÅÃûËÄ·½£¬ÓÐÊ±¼äÎÒÇë´ó¸ç³Ô¡£
-31	Õæ²»Ï²»¶ºÍÌÆÃÅµÄÈË´ò½»µÀ£¬ËûÃÇ¾­³£°µËãÈË¡£	ÎÒ¼ÒÔ­À´Ñø¹ýÆß£¬°Ë¿ÚÖí£¬Ò»ÄÖ¼¢»ÄÈ«É±µô³ÔÁË¡£	Ó£»¨±ÈÌÒ»¨¸üÃÀ£¬¸ü¸ßÑÅ¡£	¸Õ²Å¿´µ½Ò»Ö»°×É«µÄÃ¨Í·Ó¥£¬ÕæÊÇÏ£Ææ°¡£¡	»ÄÉ½Ò°ÁëµÄµØ·½×îÈÝÒ×³öÏÖÑý¹Ö£¬ÔÛÃÇ»¹ÊÇÐ¡ÐÄÎªÃî¡£	ÎÒÒ»¶¨ÒªÈ¢¸öÁÏÀí¸ßÊÖµ±ÀÏÆÅ¡£
-32	ÉÙÁÖºÍÉÐÒ»¸ö¸ö¶¼×ÔÒÔÎªÁË²»Æð£¬ÎÒ¿´ÁË¾ÍºÜ²»Ë¬¡£	´ÓÐ¡ÎÒµù¾ÍÏ£ÍûÎÒÄÜµ±´ó¹Ù£¬ÖÐ×´Ôª£¬¿ÉÊÇÎÒ¶Ô×öÑ§ÎÊ²»¸ÐÐËÈ¤¡£	ºÙºÙ£¬ÎÒ½ñÌìµÄÐÄÇé²»´í£¬ÔÛÃÇËÄ´¦×ß×ß°É£¿	½ñÌìÎÒºÜÓÐÐËÖÂ£¬ÔÛÃÇÀ´Ò»ÆðÏÂºÓÃþÓã°É£¿	ÆäÊµÎÒÒ²²»ÊÇ·Ç³£ÅÂ¹í¹Ö£¬Ö»ÊÇÓÐÊ±ÏëÆðÀ´£¬ÐÄÉú¿Ö²À¡£	ÏÖÔÚÎÒÔ½À´Ô½Ïë³ÉÇ×ÁË£¬°¦£¬¿ÉÊÇÐÄÉÏÈËÔÚÄÄ»¹²»ÖªµÀÄØ£¿
-33	¸ÃËÀ£¬Ò»¶¨ÊÇÄã×òÌìÕÒÀ´µÄÄ¢¹½º¦µÄ£¬¶Ç×ÓÌÛËÀÁË£¡	ÎÒµÄÊ¦¸µÊÇÒ»¸öïÚÊ¦£¬×¡ÔÚ³É¶¼¡£	Ò»ÄêÒ»¶ÈµÄÆßÏ¦½ÚÓÖÒªµ½ÁË£¬½ñÄêÎÒÊÇ¹Âµ¥Ò»ÈË°¡¡£	Ô¶´¦ÓÐÒ»×ùÉ½£¬¿´ÆðÀ´ºÜ»ÄÎßµÄÑù×Ó¡£	ÓÐÊ±ÈË±È¹í¸ü¿ÉÅÂ¡£	ÔøÓÐ¹ó×åÐ¡½ãÏòÎÒÐ´ÁË·âÇéÊé£¬ÎÒÃ»ÓÐ»ØÓ¦Ëý£¬±Ï¾¹ÎÒÃÇÉí·ÝÐüÊâ¡£
-34	ÄãËµµÄÄÇ¸öÊ²Ã´´³¹Ø£¬ÎÒÏÖÔÚÒ»µãÐËÈ¤Ò²Ã»ÓÐ¡£	Ôø¾­ÎÒµÄÐ¡Ê¦ÃÃÏòÎÒ°µÊ¾¹ý£¬µ«ÊÇµ±Ê±ÎÒÉ¶Ò²²»¶®£¬È¥ÄêËý¼ÞÈËÁË¡£	Äã½ñÌì´©µÃÒÂ·þÌ«ÄÑ¿´ÁË£¬¸Ï½ô»»Ò»¼þ°É¡£	´Ë´¦·ç¾°ÉõºÃ£¬ÎÒÃÇ¶àÐÀÉÍÒ»»á°É£¿	ÔÛÃÇÈ¥³ÔµãÐ¡³Ô°É£¿	÷è÷ëµ½µ×ÊÇÊ²Ã´Ñù×ÓÄØ£¿Èç¹ûÎÒÄÜ¼ûµ½¾ÍºÃÁË¡£
-35	ÏÂ´Î×¢ÒâµãºÃÂð£¿ÎÒºÃ¼¸´Î²îµãÃ»Ãü¡£	ÎÒÕâ¸öÈË×îÌÖÑáÂîÈË£¬µ«ÊÇÓÐÈËÕæµÄ¸ÃÂî¡£	Õâ´óÈÈÌìµÄ£¬ÈÃÈËÔ½·¢·³ÔêÁË¡£	ÎªÊ²Ã´ÈË×ÜÊÇÏë³¤Éú²»ÀÏ£¬Õæ²»Ã÷°×°¡£¡	¸Õ²ÅÓÐ¸öÐ¡³æ×Ó¶¢ÁËÎÒÒ»ÏÂ£¬ÓÐÐ©Ñ÷¡£	ÎÒÔõÃ´Íü¼Ç¼ÇÕÊÁË£¬Ã¿ÌìÎÒ¶¼»á¼ÇÂ¼ÏÂ×Ô¼ºµÄ»¨Ïú£¬ÕâÑù±È½ÏÈÝÒ×Àí²Æ¡£
-36	ÉÏ»ØÄã¸øÎÒµÄ¹û×ÓÊÇËáµÄ£¬²îµãËáµôÀÏ×Ó´óÑÀ¡£	ÎÒÃÇÃ»ÓÐ±ØÒªËæ±ãºÍ±ðÈË´ò¼Ü£¬ÄÇÑùÃ»ÓÐÒâË¼µÄ¡£	µ½µ×Ê²Ã´ÑùµÄÈË²ÅÊÇ³É¹¦µÄÈËÄØ£¿	Èç¹ûÃ¿ÌìÍíÉÏ¶¼ÄÜË¯ÔÚÒ»ÕÅÊæ·þµÄ´²ÉÏ¾ÍºÃÁË£¬¹þ¹þ£¡	¶ö°¡£¬ÑÛÇ°¶¼ÒªÃ°½ðÐÇÁË£¬ÎÒ³Ô¸öÉÕ±ý°É£¡	ÕÔ´óµØÖ÷Òª³öÊÛÒ»¿éµØ£¬ÎÒ¿¼ÂÇÂòÏÂ£¬¸Ç¸öÐ¡·¹¹Ý¡£
-37	ÔÚÕâ¹íÌìÆøÏÂ£¬Äã¾Í²»»³Äî²èå¼Âð£¿	¸Ã¼À¼ÀÎåÔàÃíÁË¡£	ÏÖÔÚ½ðÈËÒÑ¾­ºÜÉÙÉ§ÈÅÎÒ´óËÎÁË£¬°ÙÐÕÒ²ÄÜ¹ýÉÏÆ½°²µÄÈÕ×ÓÁË¡£	ÎÒÃÇÓ¦¸ÃÍ£ÏÂÀ´ÐÝÏ¢Ò»»áÁË£¡	ÕâÀïËäÈ»·ç¾°ÃÀÀö£¬ºÓË®Çå³º£¬µ«ÎÒÃÇ»¹ÓÐÊÂÒª°ì£¬²»Ó¦ÁôÁµ´ËµØ¡£	ÎÒÃÃ×ÓÒª³ö¼ÞÁË£¬ÐÄÀïÓÐÐ©¹Ö¹ÖµÄ£¡
-38	ÍíÉÏÎÒ¾­³£ÐÝÏ¢²»ºÃ£¬Ê±¼ä³¤ÁË£¬ÌúÈËÒ²Òªµ¹°¡¡£	ÓÐ³¯Ò»ÈÕ£¬ÎÒÒ²»á³ÉÎª½­ºþÖÐÏÔºÕµÄÈËÎï¡£	Â·¹ýÉÙÁÖÊ±£¬ÎÒÒª½øÈ¥ÉÏÖêÏã¡£	´³¹ØÊ±£¬ÒªÏÈ×öºÃ³ä·ÖµÄ×¼±¸£¬µ½Ê±²ÅÓÐ¿ÉÄÜ¼á³Öµ½ÖÕµã£¡	Ç°ÈÕÔÚÆÆÃíÂ¶ËÞ£¬°ÑÎÒÐÄ°®µÄØ°Ê×¶ªµôÁË£¬²»ÖªµÀÊÇ²»ÊÇÆòØ¤ÍµµÄ£¿	ÂùÒÄÅ®×Ó£¬¶¼ÄÜ¸èÉÆÎè¡£
-39	½ñÌìµÄÌìÆø·Ç³£²»ºÃ£¬ÅªµÃÎÒÐÄÇéÒ²²»ºÃ¡£	ÈÊÐÖ£¬Äã²»¾õµÃ×î½üÌ«ÎÞÁÄÁËÂð£¿	ÎÒÉíÉÏµÄ³¤ÅÛÊÇÄïÇ××Ô×öµÄ¡£	ÎÒ³£³£ÔÚÑÏ¶¬³à×ÅÉÏÉíÔÚ»§ÍâÁ·¹¦£¬ÕâÑù¿ÉÒÔÄ¥Á·ÒãÁ¦¡£	×öÈË²»ÄÜÌ«¹Å°å£¬Å¼¶ûÒ²ÒªÐ¦Ò»Ð¦£¬¶Ô£¬ÎÒËµµÄÊÇÄã£¬´ó¸ç£¡	½ñÌìÔÂÉ«²»´í£¬ÎÒÒª¶ÔÔÂ´µµÑ¡£
-40	ÏÂ»Øµ½¼¯ÊÐÀï£¬Ò»¶¨Òª¿´¿´¸è¼¿±íÑÝ¡£	ÓÖÂ·¹ýÕâ¸öµØ·½ÁË£¡	ÄÄÌìÎÒÓëÈÊÐÖÇÐ´èÒ»ÏÂÆåÒÕ°É£¿	ÕäÖéËÍ¸øÎÒÄïµ±ÊÙÀñ×îºÏÊÊ²»¹ýÁË£¡	Å®ÈË·ÖÎªËÄÖÖ£¬¸ß¹óµÄ£¬¿É°®µÄ£¬ÉÆÁ¼µÄ£¬¶Ë×¯µÄ£¬ÄãÏ²»¶ÄÄÒ»Àà£¿	ÎÒÆ½Éú×î¿´²»¹ß×ÔÒÔÎªÊÇµÄ¼Ò»ï¡£
-41	ÎÒÏë»Ø¼ÒÖÖµØÈ¥ÁË£¬²»ÏëÔÙ¹ýÕâÑùÆ¯Á÷ÀËµ´µÄÉú»î¡£	×òÌì¿´µ½Ò»¸ö³óÅ®£¬º¦ÎÒ·¢ÁËÒ»ÍíØ¬ÃÎ¡£	°¡£¬ÎÒºÃ²»ÈÝÒ×´æµÄÀÏÆÅ±¾ÉÙÁËÒ»ÎÄ£¬¶ªÔÚÄÄÀïÁË£¿	ÌåÖÊÐéÈõ¿ÉÒÔÓÃÒ©²ÄÀ´°¾ÌÀ²¹Éí×Ó¡£	¾Õ»¨ÅÝ²è»áÓÐºÜÌØÊâµÄÏãÎ¶£¡	Ìýµ½ÓÐÈË³ª¸èÁËÂð£¬ÕæÆæ¹Ö°¡£¿¿ÉÊÇËÄÏÂ³ýÁËÄãÎÒÃ»ÓÐ±ðÈË£¡
-42	Äã»¨Ç®´óÊÖ´ó½Å£¬¿É±ð°ÑÎÒ¹¤Ç®Ò²»¨ÁË£¡	´«ËµÕâ¸½½ü³öÏÖ¹ýÔ©¹í£¬ÔÛÃÇ»¹ÊÇ¿ì¿ìÀë¿ª°É¡£	ÎÒ·¢ÏÖÄãÕâ¸öÈË»¹ÊÇ²»´íµÄ£¬ÒÔÇ°Ö»ÊÇÎÒÃÇºÜÉÙÁÄÌì°ÕÁË¡£	ÀÏÌì°¡£¬ÎÒÔõÃ´ÉÏ»Ø¶ÄÇ®ÊäÁËÕâÃ´¶à£¬ÀÏÆÅ±¾¶ùÓÖÃ»ÁË£¡	¿É°®µÄÅ®ÈË´ó¶àÈÎÐÔ¡£	Ë­Ç·ÎÒ50ÎÄÇ®À´×Å£¬ÔõÃ´Ò²Ïë²»ÆðÀ´ÁË¡£
-43	ÏÂ»ØÎÒÃÇµ½ÈªÖÝÊ±£¬³¢³¢ÄÇµÄº£ÏÊ°É£¿ßÀ¡­¡­Äã»¹ÓÐÇ®Ã´£¿	ÉÏÌìÌ«²»¹«Æ½ÁË£¬°ÑÓÐµÄÈËÉúµÄÕâÃ´ÃÀ£¬ÓÐµÄÈËÈ´ÌØ±ð³ó¡£	ÕÒ¸öÔÂÔ²Ö®Ò¹£¬ÎÒÃÇÀ´ÐÀÉÍÃ÷ÔÂÈçºÎ£¿	¿´À´´ó¸ç½ÌÑµµÄÊÇ£¬ÎÒ²»¸ÃÔÙÕ´¶ÄÁË¡£	ÐÄµØÉÆÁ¼µÄÅ®ÈËÍùÍùÈ±·¦÷ÈÁ¦¡£	Õâ¼¸ÈÕ£¬ÎÒÒªÕûÀíÒ»ÏÂÕÊÄ¿£¬ÒòÎªÉÙÁË3ÎÄÇ®¡£
-44	ÎÒ×îÏ²»¶ºÈ¾ÆÁË£¬¹þ¹þ£¬²»ÏñÄãÒ»¿ÚÏÂÈ¥¾ÍÅ¿ÏÂÁË¡£	´Ó½ñÌì¿ªÊ¼ÎÒÒªÒ»ÐÄÏò·ð¡£	×î½üÎÒ±È½Ïµ¹Ã¹£¬×ÜÊÇÓöµ½Ð¡Íµ£¡	¸Õ²Å¹ýÈ¥µÄÒ»¸öÄÐ×ÓËÆºõÔÚµÉÔÛÃÇ£¬Òª²»ÒªÐÞÀíËû£¿	¸ß¹óµÄÅ®ÈË×ÔÒÔÎªÊÇ¡£	ÓÐÖ»µ÷Æ¤µÄºï×ÓÇÀ×ßÁËÎÒµÄÓñÅå£¬ÎÒÒª¸øËüµãÑÕÉ«¿´£¡
-45	²»»áºÈ¾Æ¾Í²»½ÐÄÐÈË¡£	ÎÒ¼ûÄã¾­³£Íü¼Ç³Ô·¹£¬ÕâÑù¶ÔÉíÌå²»ºÃ¡£	ÄÄÈÕ ÎÒÃÇÉÏÌìÍõµºÓÎÀÀÒ»·¬°É£¿	ÔçÉÏÆðÀ´Ã»³Ô·¹£¬¶Ç×ÓÒ»Ö±¹¾¹¾½Ð£¡	¶Ë×¯µÄÅ®ÈËÒ»°ãºÜ¹Å°å¡£	Õâ¸öµØ·½µÄ·ç¾°ÓÐÐ©·¦Î¶£¬¿ÉÊÇÓÐ´ó¸çÔÚÒ²²»»á¾õµÃ·³ÃÆ¡£
-46	ÎÒ»á´µµÑ×Ó£¬ÄãËÆºõ²»Í¨ÒôÂÉ°¡£¡	²»¹ÜÄã³Ô·¹²»³Ô·¹£¬ÎÒ¿ÉÒª³ÔÁË¡£	ÌìÒõÁË£¬ÂíÉÏÒªÏÂÓê£¬ÎÒÃÇ¿ìÐ©ÕÒµØ·½Í¶ËÞ°É¡£	ÏÖÔÚ´ø±£ïÚµÄÈËÔ½À´Ô½¶àÁË£¬ÓÐÊ±»¹ÄÜ¿´µ½ÃÀÅ®×÷±£ïÚÄØ£¡	ÎÒÆäÊµÊÇ¸öºÜÏ²»¶×ÔÓÉÉú»îµÄÈË¡£	µ½¾ÆÂ¥³Ô·¹Ê±£¬×¢Òâ°Ñ°ü¸¤·ÅºÃ£¬·ÀÖ¹Ð¡Íµ¡£
-47	ÄãÕâ¸öÄ£ÑùºÜÄÑ»áÓÐÅ®ÈËÔ¸ÒâÀíÄãµÄ£¡	¸½½üµÄ´å×ÓÔâÁËºµÔÖ¡£	ÎÒÕâ¸öÈË×î²»Ï²»¶±ðÈËÃüÁîÎÒÁË¡£	´óÈÈÌìÅÝÔÚºÓÀï×îÊæ·þ¡£	ËäÈ»¸ú×Å´ó¸ç²¢²»ÊÇÎÒÒ»Ö±ÏòÍùµÄ£¬µ«ÊÇÎÒ¸Ð¾õÕâÑùµÄÉú»îÒ²²»´í¡£	ÄÄÌì´ó¸çµÄÂíÒ²½èÎÒÆïÏÂ£¬¹þ¹þ¡£
-48	Éú»îÊÇ·á¸»¶à²ÊµÄ£¬ÎªÊ²Ã´Äã×ÜÊÇÒªÈÃ×Ô¼ºÈç´Ë´ÒÃ¦£¿	ÎÒÖÖµÄÌÒÊ÷£¬ÏÖÔÚ¸Ã³¤ºÜ¸ßÁË°É¡£	ÎÒ¾¡Á¿×ö×îºÃµÄ±£ïÚ¡£	±ùÌÇÑàÎÑìÀÑ©ÀæÊÇÕä¹óµÄÌðÆ·£¬Ö»ÓÐ¸»»§ÈË¼Ò²ÅÄÜ³ÔµÃÆð¡£	ÁøÖ¦»áËæ·ç¶ø°Ú¶¯£¬¾ÍÏñÎèÅ®ÌøÎèÒ»°ã¡£	ÎÒÊÇ¸ö¿ÉÁ¯µÄÄÐÈË°¡£¬ÏÖÔÚÁ¬¸öÀÏÆÅÒ²Ã»ÓÐ£¡
-49	Èç¹ûÄãÊ§ÁµÁË£¬Ò»¶¨Òª¼ìÌÖ£¬ÕâÖ»ÄÜËµÃ÷Äã×ÔÉíÓÐÎÊÌâ¡£	ÈË²»ÄÜÌ«¹ÌÖ´£¬ÕâÑùÖ»ÄÜÉËº¦×Ô¼º¡£	½øÈÕÄãµÄ¹¦·ò³¤½ø²»ÉÙ°¡£¡	ÖÕÓÚÅÎµ½ÁËÇïÌì£¬×îÊæÊÊµÄÊ±½Ú°¡¡£	ºöÈ»¸Ð¾õµ½ºÜÆ£ÀÍ£¬ÎÒÃÇÔÚÇ°ÃæÐªÏ¢Ò»»á°É£¡	Å¶£¿Äã½ñÌì»»ÁËÉíÐÂÒÂ·þ£¬²»´í£¡
-50	°¦£¬ºÍÄãÔÚÒ»Æðºó£¬ÎÒ¾Í´ÓÀ´Ã»³Ô¹ýºÃ¶«Î÷¡£	»ÆºÓÓÖ·ºÀÄÁË¡£	½ñÈÕµÄÌ«ÑôÕæ´ÌÑÛ¡£	Îå¶¾½ÌµÄÈËÕæ²»ºÃÈÇ£¬ÒÔºóÓöµ½ÔÛÃÇÒ»¶¨Òª¶ã¿ª¡£	¿Ú¿ÊÁË£¬ÎÒÈ¥´òµãÈªË®À´ºÈ¡£	ÎÒ¾õµÃÄãÕâ¸ö´ó¸çºÜºÏ¸ñ£¬¾­³£ÎªÁËÕÕ¹ËÎÒÍü¼Ç×Ô¼ºµÄÊÂÁË¡£
+1	ChØ cã c«ng phu cña mÌo ba ch©n ng­¬i cßn häc ng­êi kh¸c x«ng vµo giang hå?	Nh©n huynh, sao ng­¬i võa nh×n thÊy mü n÷ hai m¾t liÒn táa s¸ng.	Ham muèn ph¸ ho¹i cña con ng­êi lµ rÊt khñng khiÕp, nh­ng th«ng qua thùc hµnh cã thÓ ®­îc gi¶i quyÕt.	Phong c¶nh cña Nga Nga S¬n næi tiÕng kh¾p thÕ giíi, ®Æc biÖt lµ phËt quang, nh×n thÊy phËt quang sÏ mang l¹i phóc khÝ.	H«m qua t«i ®· uèng rÊt h¹nh phóc, b©y giê ®Çu h¬i cho¸ng v¸ng!	H«m nay b¹n cã mét mµu s¾c tèt!
+2	T«i chØ lµm viÖc cho tiÒn.	Mçi buæi s¸ng vµ buæi tèi t«i sÏ sóc miÖng b»ng n­íc muèi, b¹n còng ph¶i ph¸t triÓn thãi quen nµy.	Than «i, cuéc sèng thùc sù ®Çy nçi buån vµ ®au ®ín!	Nh÷ng ®Ö tö C¸i Bang kia thËt sù lµ kh«ng cã lç hæng bÊt nhËp a, nµo còng cã thÓ nh×n thÊy th©n ¶nh cña bän hä.	MÊy ngµy tr­íc sau khi uèng say, ng· xuèng ven ®­êng ngñ, hiÖn t¹i ngÉu nhiªn c¶m thÊy phong hµn.	Kú thËt tæ tiªn nhµ ta còng tõng cã ng­êi lµm quan.
+3	Anh lu«n ®øng xa nh­ vËy ®Ó lµm g×?! T«i chÕt råi, anh còng kh«ng sèng ®­îc sao!	T«i lµ khã chÞu nhÊt cña mïa ®«ng, mét con ®­êng tuyÕt ®ãng b¨ng, dÔ dµng ®Ó r¬i vµo giao dÞch.	T¹i sao t«i lu«n lu«n bá lì sè phËn cña t«i?	T«i thÝch ngäc lôc b¶o nhÊt, mµu s¾c cña nã rÊt rùc rì, lµm cho mäi ng­êi yªu thÝch.	Nh÷ng con chuét ë Thµnh §« mËp h¬n nh÷ng n¬i kh¸c, vµ cã vÎ nh­ cuéc sèng ë ®ã lµ tèt.	Lý do t¹i sao ng­êi phô n÷ t«i yªu rêi bá t«i chØ cã mét lý do, lµ t«i ®· qu¸ kh«ng biÕt tr©n träng.
+4	§õng ®i nhanh nh­ vËy, t«i cÇn nghØ ng¬i.	M· Bé ®Òu kh«ng v÷ng, cßn ph¶i häc c«ng phu, ng­¬i tr­íc tiªn luyÖn c¬ b¶n kü ®i.	N¨m nay t«i ph¶i tiÕt kiÖm ®ñ vèn cña vî, tiÕt kiÖm tõng ®ång tiÒn.	§¹i ca kh«ng cã n÷ tö nµo thÝch sao?	TiÓu n­¬ng tö võa råi lµ vÞ nµo vËy?	Nh÷ng g× bÞ mÊt th­êng kh«ng thÓ ®­îc t×m thÊy.
+5	Nµy, nghe t«i nãi kh«ng, chóng ta ph¶i nghØ ng¬i!	T«i ®· thÊt b¹i, vµ t«i ®· bÞ bá r¬i bëi c¸c c« g¸i.	B¹n còng nªn t×m mét c« g¸i t×nh ®Çu ý hßa, haha!	ThËt kú l¹, gÇn ®©y «ng trêi lu«n kh«ng m­a!	T«i ®· tõng yªu mét ng­êi phô n÷, nh­ng cuèi cïng c« Êy ®· rêi bá t«i.	TÕt ta nhÊt ®Þnh ph¶i vÒ quª th¨m mét chót, cïng cha mÑ ta ¨n mét b÷a c¬m ®oµn viªn.
+6	Tuy r»ng sinh ra lo¹n thÕ, nh­ng l¹i cho ta cµng nhiÒu c¬ héi cã thÓ thi triÓn b¶n lÜnh.	T¹i sao con ngùa cña b¹n kh«ng v©ng lêi nh­ vËy vµ ®¸ t«i mét cuéc chiÕn lín.	Lóc tr­íc ta trèn h«n kh«ng biÕt cã ®óng hay kh«ng?	§«n Hoµng lµ mét n¬i ®Çy søc m¹nh bÝ Èn, chóng ta ph¶i ®Õn th¨m.	Cuéc sèng cña d©n chóng rÊt khã kh¨n, lµm hoµng ®Õ còng nªn cÇn kiÖm mét chót.	Kh«ng cã g× ®Æc biÖt x¶y ra ngµy h«m nay.
+7	T¹i sao b¹n hµnh tÈu giang hå, sÏ kh«ng chØ v× sù giµu cã vµ thanh danh.	Anh ph¶i chÞu tr¸ch nhiÖm vÒ chi phÝ y tÕ cña t«i, vÕt th­¬ng trªn ng­êi t«i ngµy cµng nhiÒu.	T«i ®· tõng cã mét con d©u nu«i con, vµ sau ®ã c« Êy ®· ®­îc th¶ ra bëi mÑ t«i.	§¹i Tèng l©m vµo chiÕn lo¹n, d©n chóng sèng trong n­íc s«i löa báng, hy väng sÏ kh«ng bao giê cã chiÕn tranh n÷a.	§èi phã víi nh÷ng ng­êi ¨n xin trong thÞ trÊn nhiÒu h¬n, hä biÕt rÊt nhiÒu ®iÒu.	Ta thÊy ®¹i ca gÇn ®©y ch¸n ¨n, ta ®i lÊy chót thuèc ®Õn cho ng­¬i uèng!
+8	GÇn ®©y ®· kh«ng cßn nh×n thÊy bãng d¸ng cña ng­êi vµng n÷a.	Mòi tªn cña Chu Tiªn trÊn, lµ ta b¸i huynh ®Ö.	MÑ t«i lµ mét ng­êi rÊt tèt bông.	Chê ®¹i ca thµnh ®¹i hiÖp trong giang hå, ta còng cã thÓ d­¬ng danh thiªn h¹.	Vâ §ang mét c¸i mòi tr©u l·o ®¹o, tõng khi dÔ ta ta, ta nhÊt ®Þnh ph¶i b¸o thï.	Mïa nµy cã rÊt nhiÒu nÊm trªn nói, chóng t«i còng ®i h¸i mét sè.
+9	Con ng­êi lµ s¾t, c¬m lµ thÐp, mét b÷a ¨n kh«ng ¨n ®ãi ho¶ng lo¹n.	LÇn sau ®i ngang qua Thóy Yªn M«n, ta muèn nh×n thªm hai lÇn, xem cã mü n÷ nµo kh«ng!	Ngµy ®ã ë kinh thµnh nh×n thÊy mét n÷ tö bªn c¹nh cã rÊt nhiÒu hé vÖ, kh«ng biÕt nµng lµ lai lÞch g×.	§iÒu t«i thÝch ¨n nhÊt lµ b¸nh bao.	Lµ mét ng­êi ®µn «ng, chóng ta nªn siªng n¨ng h¬n.	LÇn tr­íc ta bÞ th­¬ng ®­îc ®¹i ca chiÕu cè.
+10	H«m tr­íc khi ®¸nh mét nhãm kÎ trém, thÊy anh lÊy kh«ng Ýt tµi s¶n.	Nhí n¨m ®ã ta còng tõng lµ mét ®êi ®¹i hiÖp, hiÖn giê l­u l¹c ®Õn tïy tïng.	T«i ®Ò nghÞ b¹n röa s¹ch m¸u trªn tay vµ ¨n.	MÆc dï cê b¹c kh«ng tèt, nh­ng thØnh tho¶ng t«i còng sÏ thö tay.	Phô n÷ th­êng nãi r»ng hä muèn kÕt h«n víi mét ng­êi ®µn «ng cã tr¸ch nhiÖm, kh«ng biÕt tiªu chuÈn nµy lµ g×?	ChØ cÇn cã ta ë ®©y, nhÊt ®Þnh sÏ kh«ng ®Ó cho ®¹i ca bÞ th­¬ng.
+11	Hoµng h«n t©y s¬n, t«i sÏ kh«ng lµm viÖc n÷a, b¹n h·y l¾ng nghe.	Buån, t¹i sao t«i kh«ng cã mét ng­êi b¹n t©m giao!	Ngåi trong nhµ trong mét thêi gian dµi kh«ng tèt cho søc kháe.	Râ rµng kh«ng thÓ lµm ®iÒu ®ã, nh÷ng lêi nµy cã nghÜa lµ g×?	Khi nµo t«i cã thÓ cã mét ng«i nhµ cña riªng t«i?	Chóng ta lµ anh em tèt, ph¶i kh«ng?
+12	Ta nãi nh©n huynh, chóng ta tuy r»ng lµ nam nh©n, còng kh«ng thÓ lóc nµo còng kh«ng t¾m röa chø?	Mïa thu ®ang ®Õn, vµ tr¸i c©y ®á nªn ®­îc nÊu chÝn.	§«i khi ®i du lÞch trªn nói còng rÊt thó vÞ!	Bèn cuèn s¸ch n¨m kinh t«i ®· ®äc, nh­ng vÉn kh«ng hiÓu b¶n chÊt cña nã.	B©y giê trÎ em ngµy cµng nghÞch ngîm, kh«ng ngê cÇm vò khÝ cña t«i ®Ó ch¬i!	Vµo mïa hÌ bªn ao, d­íi ¸nh tr¨ng, chiªm ng­ìng hoa sen cã mét c¶m gi¸c thó vÞ kh¸c nhau.
+13	MÆc dï t«i lµ mét vâ phu, nh­ng t«i ®· ®äc tø th­ ngò kinh.	Lý do t«i kh«ng kÕt h«n lµ sî sù thÌm ¨n cña phô n÷ ®èi víi quÇn ¸o vµ ®å trang søc!	Ng«i ®Òn ®ang rung chu«ng, rÊt dÔ nghe, ph¶i kh«ng?	Ng­êi vµng tuy r»ng ®i råi, hiÖn t¹i bê biÓn l¹i n¸o lo¹n ®¸m rËp.	H«m nay khi t«i thu dän g¸nh nÆng, t«i thÊy sóng cao su ®· ®­îc ch¬i khi t«i cßn nhá!	T«i nhËn ®­îc th­ cña em g¸i t«i, c« Êy nãi r»ng cha mÑ lµ tèt.
+14	T«i ®· mÖt mái cña c«ng viÖc cña t«i mçi ngµy b«n ba lao ®éng.	Ng­êi phô n÷ nh×n thÊy quÇy quÇn ¸o liÒn ®i l¹i, ®iÓm nµy ë trªn ng­êi muéi muéi ta chøng minh.	T«i thÝch ®i d¹o bªn bê s«ng trong c¬n m­a nhá.	§«i khi ngay c¶ khi con ng­êi cã søc m¹nh m¹nh mÏ cuèi cïng lµ buån b· vµ kÕt thóc.	Giang Nam tø ®¹i tµi tö, ng­¬i ®· tõng nghe qua c¸i danh hµ nµy?	Mçi ngµy ph¶i kiªn tr× uèng s÷a ®Ëu nµnh, nghe nãi nh­ vËy c¬ thÓ sÏ trë nªn s¨n ch¾c.
+15	ThËt kh«ng thó vÞ khi ë bªn anh.	Tr­íc kia mÑ ta nãi cho ta mét con d©u, ngµy thµnh th©n ta bá ch¹y.	B¹n ®· bao giê ¨n l­¬n, h­¬ng vÞ cùc kú ngon.	Kh«ng biÕt thiªn h¹ rèt cuéc cã rång hay kh«ng, nÕu mét ngµy nµo ®ã cã thÓ tËn m¾t nh×n thÊy th× tèt råi!	Gi¸o chñ Thiªn NhÉn Gi¸o tõng cã duyªn gÆp ta mét lÇn.	Than «i, mÆt trêi mäc ba c©y sµo, chóng ta h·y lªn ®­êng ®i?
+16	Giang hå hiÓm ¸c, ta ®· n¶y sinh ý ®Þnh ®i.	Anh lµ mét ng­êi nhµm ch¸n, ngay c¶ ®ïa giìn còng kh«ng ®ïa.	Ng­êi trong giang hå nh­ chóng ta, kh«ng nªn c­íi vî, bëi v× chóng ta tø h¶i lµm gia ®×nh.	Kim, méc, thñy, háa, thæ ngò hµnh hßa gi¶i míi cã thÓ lµm cho v¹n vËt ®¹t tíi c©n b»ng.	§Ö tö Nga Nga ch­a bao giê tïy tiÖn nãi chuyÖn víi nam tö!	Y phôc cña ®¹i ca ®· r¸ch, cã thêi gian ta gióp ng­¬i bæ sung ®­îc, ®õng nh×n ta tay ch©n th«, còng sÏ ®iÓm ch©m cøu sèng.
+17	T«i ®· ®i qua s«ng Lín b¾c-nam, hy väng sÏ cã c¬ héi ®Ó xem ë n­íc ngoµi.	Nµy? Lµm thÕ nµo cã hai ®ång tiÒn d­íi lßng ®Êt?	Khi t«i lín tuæi, t«i cã thÓ xuÊt gia lµm nhµ s­.	Ng­êi §¹i Tèng chóng ta nªn ®oµn kÕt h¬n, nh­ vËy míi cã thÓ c­êng ®¹i h¬n.	GÇn ®©y cã rÊt nhiÒu muçi, c¾n t«i hçn hîp lµ tói x¸ch.	N¨m míi ®ang ®Õn mét lÇn n÷a, t«i muèn thùc hiÖn mét kÕ ho¹ch cho nh÷ng ngµy sau nµy!
+18	C¶ ngµy ¨n b¸nh lín, tæ ®Çu, ta nµo cã khÝ lùc giÕt ®Þch?	T«i kh«ng ph¶i tïy tïng cña anh, lµ ng­êi gióp ®ì anh.	Cã rÊt nhiÒu ®¸ trªn nh÷ng ngän ®åi gÇn ®ã cã thÓ ph¸t ra ¸nh s¸ng rùc rì.	D¬i lµ ®iÒu t«i ghÐt nhÊt!	§¹i ca, chóng ta tèt nhÊt tr¸nh ngñ trªn nói, buæi tèi cã d· thó lui tíi.	VÒ nhµ ¨n TÕt còng cã chç kh«ng tèt, ph¶i cho ch¸u trai, ch¸u trai tiÒn mõng tuæi.
+19	……………………………………	TiÒn, tiÒn, t¹i sao t«i lu«n lu«n nghÌo nh­ vËy.	Hoa lan në trªn nói, mïi th¬m ë kh¾p mäi n¬i.	§«i khi t«i méng du, khi b¹n t×m thÊy, b¹n ph¶i nh×n thÊy ®¸nh thøc t«i dËy ah.	Lµm sao b©y giê, cßn cã m­êi ngµy em g¸i ta s¾p qua sinh nhËt, ta cßn ch­a nghÜ ra tÆng lÔ vËt g×.	H«m nay vèn muèn ®i sßng b¹c, nh­ng nhí tíi lêi cña ®¹i ca, ta liÒn nhÞn xuèng.
+20	H«m qua anh nãi g×, anh sÏ v­ît qua cöa ¶i nµo?	Kh«ng biÕt khi nµo míi cã thÓ tÝch gãp ®ñ vèn vî.	Kh«ng sî b¹n c­êi, trªn thùc tÕ, t«i còng rÊt thÝch hoa vµ cá.	C©y trång trong ®Êt bÞ bá hoang, d©n lµng gÇn ®ã ®· ®i ®©u?	Ng­êi tËp vâ kiªng kÞ nhÊt kú thËt chÝnh lµ s¸t sinh, kh«ng thÓ dïng b¹o lùc ®i c­íp ®o¹t tÝnh m¹ng cña ng­êi kh¸c.	Ta cßn ph¶i cÇn ph¶i luyÖn tËp míi cã thÓ b¾t kÞp th©n thñ cña ®¹i ca a.
+21	Vò khÝ cña t«i ®· bÞ h­ háng vµ ngµy mai t«i sÏ söa ch÷a nã.	Cã chót v­íng bËn cha mÑ trong nhµ, kh«ng biÕt th©n thÓ bän hä cã tèt kh«ng?	¤å, quÆng t«i thu thËp ®­îc h«m nay b¸n víi gi¸ tèt.	N¬i nµy cã rÊt nhiÒu ng«i phÇn c« ®¬n, chØ sî lµ mÊy n¨m tr­íc khi chiÕn lo¹n l­u l¹i.	H«m nay bÇu trêi v¹n dÆm kh«ng m©y, cßn cã giã nhÑ thæi qua, thËt sù lµ lµm cho ng­êi ta s¶ng kho¸i a!	Buæi tèi nghe tiÕng c«n trïng hãt, ß ßi ng­îc l¹i dÔ ngñ s©u.
+22	Anh lu«n ®Æt t«i vµo t×nh huèng nguy hiÓm.	Nã thùc sù nhµm ch¸n r»ng tÊt c¶ chóng ta lÆp ®i lÆp l¹i cïng mét ®iÒu mçi ngµy.	S¾c trêi ®· tèi, chóng ta nªn nhanh chãng t×m mét n¬i ®Ó ngñ?	BÊt kÓ lµ ng­êi Kim hay ng­êi H¸n ®Òu kh«ng muèn ®¸nh giÆc.	Khi t«i ®i ngang qua V¹n Lý Tr­êng Thµnh lÇn tr­íc, t«i thÊy nh÷ng ng­êi lÝnh ®ang uèng r­îu vµ ¨n thÞt, vµ kh«ng cã nhiÒu ng­êi nghiªm tóc ®øng canh g¸c.	Buæi tèi cïng t«i uèng r­îu, qu¸n r­îu cßn cã ca n÷, vò n÷ biÓu diÔn.
+23	T«i sÏ kh«ng bá qua bÊt cø ®iÒu g× kh¸c ngoµi tr¸ch nhiÖm cña t«i.	TÖ, t«i quªn h«m nay cã ph¶i lµ ngµy may m¾n cña hoµng ®¹o kh«ng?	Tèi qua t«i ®· gÆp thiªn th¹ch, t«i kh«ng biÕt liÖu cã chuyÖn tèt nµo x¶y ra kh«ng?	H¬n nöa ®ªm tèt nhÊt ®õng ra ngoµi, sÏ gÆp ph¶i tµ khÝ.	Mét vµi n¨m tr­íc ®©y, mét ngän löa cña ng­êi ®µn «ng vµng ®· ®èt ch¸y ng«i lµng gÇn ®ã, vµ b©y giê nã ®· trë nªn thÞnh v­îng mét lÇn n÷a!	Hµng Ch©u lµ mét n¬i tèt, rÊt nhiÒu ng­êi ®Ñp.
+24	C¶ ngµy vÊt v¶ nh­ vËy, cã thÓ t¨ng l­¬ng kh«ng?	Theo hoµng lÞch, h«m nay t«i kh«ng nªn ®i vÒ phÝa t©y, còng kh«ng nªn mÆc ¸o ®á.	H«m nay chóng ta nªn ®i vÒ phÝa t©y, ®ã lµ h­íng may m¾n.	Nh÷ng ngµy nµy b«n ba kh¾p n¬i, kh«ng cã thêi gian thay quÇn ¸o.	T¹i c¸c chî biªn giíi, b©y giê cã thÓ nh×n thÊy ng­êi H¸n vµ ng­êi Kim lµm kinh doanh!	T«i ®i mua mét sè b¸nh bao thÞt vµ ¨n trªn ®­êng.
+25	NÕu cã thÓ hñy bá ­íc hÑn!	§«i khi thÇy bãi chØ ®Ó kiÕm thªm b¹c, nãi bËy víi anh.	TuÇn tr­íc nh×n thÊy mét ng­êi ®µn «ng, thùc sù ®Ñp trai, ngay c¶ t«i còng ghen tÞ ah.	Nh÷ng ®¸m m©y ®en bao phñ bÇu trêi, cã vÎ nh­ mét c¬n m­a lín tiÕp theo.	Rèt cuéc vÉn lµ ®Êt ®ai ®¹i Tèng giµu cã a!	Quª h­¬ng cña anh trai t«i ë ®©u?
+26	Ta còng lµ nh©n sinh nhôc tr­êng, kh«ng nªn xem ta lµ c«ng cô giÕt ®Þch cña ng­¬i.	Trêi ®Êt mÆc dï lín, nh­ng kh«ng cã mét n¬i dung th©n nh­ ta, ai!	Khi nµo t«i còng cã thÓ së h÷u mét ng«i nhµ sang träng?	Ai, nhiÒu ngµy kh«ng ¨n thÞt, nÕu cã thÓ cã mét vß n÷ nhi hång th× cµng tèt.	Trªn ng­êi ta ®· cã v« sè vÕt sÑo, kh«ng ng¹i thªm vµi c¸i n÷a, ha ha!	T«i sinh ra trong mét ng«i lµng nhá gÇn Thµnh §«, n¬i nói non n­íc biÕc, ®Þa linh nh©n kiÖt.
+27	T«i nghÜ anh lµ mét ng­êi sî chÕt.	TrÔ nh­ vËy, chóng ta cßn ph¶i ®i!	Sù lùa chän cña t«i sÏ sai? DÊn th©n vµo giang hå cã thùc sù lµ con ®­êng t«i nªn ®i kh«ng?	GÇn ®©y c¬ thÓ t«i cã mét sè khã chÞu, cÇn ph¶i ®­îc ®¹i bæ.	Th¸ng tr­íc, anh hä t«i ®Õn, mang cho t«i rÊt nhiÒu tµi s¶n b¶n ®Þa.	C¸ hÊp cã vÞ qu¸ tèt, nhí l¹i liÒn ch¶y n­íc miÕng.
+28	Anh ¨n tái, ph¶i kh«ng?	Ngùa cña b¹n cã vÎ ®ãi!	Tuy nãi nam nhi cã n­íc m¾t kh«ng nhÑ ®¹n, nh­ng cã lóc bi th­¬ng còng nªn ph¸t tiÕt ra.	Nh©n s©m, linh chi, nhung h­¬u ®Òu lµ d­îc liÖu bæ th©n.	Ta vÊt v¶ tÝch gãp phÇn lín ng©n l­îng ®Òu cho mÉu th©n cïng phô th©n!	Gäi gµ hoa th× nÊu r­îu qu¶ thùc lµ mü vÞ nh©n gian a!
+29	Mçi ngµy trêi kh«ng s¸ng liÒn ®øng lªn luyÖn c«ng, ng­¬i còng nªn nh­ vËy.	T«i ®ãi ®Õn nçi t«i chØ cã thÓ ¨n mét Ýt b¸nh n­íng.	B¹n ®· bao giê nh×n thÊy biÓn xanh, nã cã thÓ lµm s¹ch t©m trÝ con ng­êi.	§· l©u kh«ng uèng trµ, cã thêi gian chóng ta ®Õn qu¸n trµ ngåi mét chót ®­îc kh«ng?	N¨m tíi gia ®×nh t«i sÏ x©y dùng ba ng«i nhµ lín ®Ó t«i cã thÓ kÕt h«n víi con d©u.	Chóng ta cã t¾m n­íc nãng khi chóng ta ngñ vµo ban ®ªm kh«ng?
+30	B¹n cã thÓ kh«ng biÕt b¬i, b¬i léi th­êng xuyªn cã thÓ tËp thÓ dôc x­¬ng vµ c¬ b¾p.	T«i thùc sù lo l¾ng vÒ sù hy sinh vinh quang cña b¹n thêi gian tíi khi b¹n giÕt qu¸i vËt!	Ta ®· tõng thÊy thiªn cÈu nuèt nhËt mét lÇn, kh«ng biÕt ng­¬i ®· thÊy qua ch­a?	Nghe thÊy con qu¹ kªu kh«ng, ®iÒu nµy sÏ kh«ng may m¾n.	§¹i ca, chóng ta còng lµ thanh niªn nhiÖt huyÕt, nªn ®i lµm mét phen sù nghiÖp lín.	§å ¨n nhÑ Thµnh §« næi tiÕng kh¾p n¬i, cã thêi gian t«i mêi anh trai ¨n.
+31	ThËt kh«ng thÝch tiÕp xóc víi ng­êi cña §­êng M«n, bän hä th­êng xuyªn ¸m to¸n ng­êi.	Nhµ t«i ban ®Çu nu«i b¶y, t¸m con lîn, mét n¹n ®ãi tÊt c¶ giÕt chÕt ¨n.	Hoa anh ®µo ®Ñp h¬n vµ thanh lÞch h¬n hoa ®µo.	Võa nh×n thÊy mét con có tr¾ng, thËt sù lµ hi kú a!	N¬i hoang s¬n d· lÜnh dÔ xuÊt hiÖn yªu qu¸i nhÊt, chóng ta vÉn nªn cÈn thËn.	Ta nhÊt ®Þnh ph¶i c­íi mét cao thñ nÊu ¨n lµm vî.
+32	Hßa th­îng ThiÕu L©m ai nÊy ®Òu tù cho m×nh kh«ng chÞu næi, t«i nh×n liÒn rÊt khã chÞu.	Tõ nhá cha ta ®· hy väng ta cã thÓ lµm ®¹i quan, trung tr¹ng nguyªn, nh­ng ta ®èi víi viÖc häc vÊn kh«ng cã høng thó.	Nµy, h«m nay t©m tr¹ng cña t«i kh«ng tÖ, chóng ta ®i d¹o mét chót?	H«m nay t«i rÊt vui mõng, chóng ta h·y cïng nhau xuèng s«ng mß mÉm c¸?	Kú thËt ta còng kh«ng ph¶i phi th­êng sî quû qu¸i, chØ lµ cã ®«i khi nhí tíi, trong lßng sinh ra khñng bè.	HiÖn t¹i ta cµng ngµy cµng muèn thµnh th©n, ai, nh­ng ng­êi trong lßng ë ®©u cßn kh«ng biÕt ®©y?
+33	§¸ng chÕt, nhÊt ®Þnh lµ nÊm ng­¬i t×m ®­îc h«m qua h¹i, ®au bông chÕt!	S­ phô cña t«i lµ mét phi tiªu s­, sèng ë Thµnh §«.	LÔ thÊt tÞch hµng n¨m l¹i ®Õn, n¨m nay t«i c« ®¬n mét m×nh.	Cã mét ngän nói ë phÝa xa tr«ng hoang v¾ng.	§«i khi con ng­êi ®¸ng sî h¬n ma.	§· tõng cã tiÓu th­ quý téc viÕt th­ t×nh cho ta, ta kh«ng ®¸p l¹i nµng, dï sao th©n phËn cña chóng ta chªnh lÖch rÊt lín.
+34	C¸i g× ng­¬i nãi x«ng quan, ta hiÖn t¹i mét chót høng thó còng kh«ng cã.	TiÓu s­ muéi cña ta ®· tõng ¸m chØ víi ta, nh­ng lóc Êy ta còng kh«ng hiÓu g×, n¨m ngo¸i nµng lËp gia ®×nh.	H«m nay b¹n ¨n mÆc qu¸ xÊu xÝ, h·y nhanh chãng thay ®æi nã.	Phong c¶nh ë ®©y rÊt tèt, chóng ta h·y th­ëng thøc nã nhiÒu h¬n mét chót?	Chóng ta h·y ®i ¨n nhÑ, ®­îc chø?	Kú L©n rèt cuéc lµ bé d¸ng g× ®©y? Gi¸ nh­ t«i cã thÓ nh×n thÊy.
+35	LÇn sau anh cã thÓ chó ý kh«ng? T«i ®· gÇn nh­ mÊt m¹ng nhiÒu lÇn.	T«i ghÐt chöi thÒ nhÊt, nh­ng ai ®ã thùc sù nªn m¾ng.	Ngµy n¾ng nãng nµy, lµm cho ng­êi ta cµng thªm phiÒn n·o.	T¹i sao mäi ng­êi lu«n lu«n muèn sèng l©u dµi, thùc sù kh«ng hiÓu ah!	Võa råi cã mét con s©u nhá nh×n ch»m ch»m vµo ta mét chót, cã chót ngøa.	Lµm thÕ nµo t«i cã thÓ quªn kÕ to¸n, mçi ngµy t«i sÏ ghi l¹i chi phÝ cña riªng t«i, v× vËy nã lµ dÔ dµng h¬n ®Ó qu¶n lý tiÒn b¹c.
+36	LÇn tr­íc ng­¬i cho ta tr¸i c©y lµ chua, thiÕu chót n÷a chua rông r¨ng nanh cña l·o tö.	Chóng ta kh«ng cÇn ph¶i chiÕn ®Êu víi ng­êi kh¸c mét c¸ch tïy tiÖn, ®iÒu ®ã kh«ng cã ý nghÜa.	Lo¹i tµi n¨ng nµo lµ nh÷ng ng­êi thµnh c«ng?	NÕu b¹n cã thÓ ngñ trªn mét chiÕc gi­êng tho¶i m¸i mçi ®ªm, haha!	§ãi, tr­íc m¾t s¾p cã sao vµng, ta ¨n mét c¸i b¸nh n­íng ®i!	TriÖu §¹i §Þa chñ yÕu b¸n mét m¶nh ®Êt, ta c©n nh¾c mua, x©y mét nhµ hµng nhá.
+37	Trong thêi tiÕt ma qu¸i nµy, b¹n kh«ng bá lì trµ sao?	§· ®Õn lóc tÕ tÕ miÕu Ngò T¹ng.	HiÖn t¹i kim nh©n ®· rÊt Ýt quÊy rÇy §¹i Tèng ta, d©n chóng còng cã thÓ sèng mét cuéc sèng b×nh an.	Chóng ta nªn dõng l¹i vµ nghØ ng¬i mét chót!	MÆc dï phong c¶nh ®Ñp, n­íc s«ng trong v¾t, nh­ng chóng t«i vÉn cßn mét c¸i g× ®ã ®Ó lµm, kh«ng nªn l­u luyÕn n¬i nµy.	Muéi muéi ta s¾p xuÊt gi¸, trong lßng cã chót qu¸i l¹!
+38	Buæi tèi t«i th­êng nghØ ng¬i kh«ng tèt, thêi gian dµi, Iron Man còng ph¶i ng·.	Mét ngµy nµo ®ã, t«i còng sÏ trë thµnh mét nh©n vËt næi bËt trong giang hå.	Khi t«i ®i ngang qua ThiÕu L©m, t«i sÏ ®i vµo vµ th¾p h­¬ng.	Khi v­ît qua cöa ¶i, tr­íc tiªn ph¶i chuÈn bÞ ®Çy ®ñ, ®Õn lóc ®ã míi cã thÓ kiªn tr× ®Õn ®Ých!	Ngµy h«m tr­íc ngñ quªn ë ph¸ miÕu, vøt bá chñy thñ yªu quý cña ta, kh«ng biÕt cã ph¶i ¨n c¾p hay kh«ng?	Man Di n÷ tö, ®Òu cã thÓ ca h¸t móa giái.
+39	Thêi tiÕt h«m nay rÊt xÊu, lµm cho t©m tr¹ng cña t«i kh«ng tèt.	Anh b¹n, anh kh«ng nghÜ gÇn ®©y anh qu¸ nhµm ch¸n sao?	Tr­êng bµo trªn ng­êi ta lµ do n­¬ng tù m×nh lµm.	T«i th­êng trÇn truång trong mïa ®«ng kh¾c nghiÖt ®Ó thùc hµnh c«ng viÖc ngoµi trêi, v× vËy t«i cã thÓ trau dåi sù kiªn tr×.	Lµm ng­êi kh«ng thÓ qu¸ cæ hñ, ngÉu nhiªn còng ph¶i c­êi mét tiÕng, ®óng, ta nãi lµ ng­¬i, ®¹i ca!	H«m nay mÆt tr¨ng lµ tèt, t«i muèn thæi s¸o cho mÆt tr¨ng.
+40	Quay trë l¹i chî, h·y ch¾c ch¾n ®Ó xem c¸c buæi biÓu diÔn ca h¸t.	L¹i ®i ngang qua n¬i nµy n÷a!	Ngµy nµo ®ã ta cïng Nh©n huynh luËn bµn mét v¸n cê nghÖ chø?	Tr©n Ch©u tÆng cho n­¬ng ta lµm thä lÔ lµ thÝch hîp nhÊt!	Phô n÷ ®­îc chia thµnh bèn lo¹i, cao quý, ®¸ng yªu, tèt bông, trang nghiªm, b¹n thÝch lo¹i nµo?	T«i kh«ng quen nh×n thÊy mét ng­êi tù cho m×nh lµ ®óng nhÊt trong cuéc ®êi t«i.
+41	T«i muèn vÒ nhµ lµm ruéng, kh«ng muèn sèng mét cuéc sèng lang thang nh­ vËy.	H«m qua t«i thÊy mét c« g¸i xÊu xÝ, lµm h¹i t«i mét c¬n ¸c méng.	A, l·o bµ ta vÊt v¶ l¾m míi tiÕt kiÖm vèn thiÕu mét v¨n, nÐm ë n¬i nµo?	ThÓ chÊt suy yÕu cã thÓ dïng d­îc liÖu ®Ó nÊu canh bæ th©n thÓ.	Hoa cóc pha trµ sÏ cã h­¬ng th¬m rÊt ®Æc biÖt!	ThËt kú l¹ khi nghe ai ®ã h¸t kh«ng? Nh­ng t«i kh«ng cã ai kh¸c ngoµi b¹n!
+42	B¹n chi tiªu rÊt nhiÒu tiÒn, nh­ng ®õng chi tiªu tiÒn c«ng cña t«i!	TruyÒn thuyÕt kÓ r»ng phô cËn nµy ®· xuÊt hiÖn oan quû, chóng ta nªn mau rêi ®i ®i.	T«i ph¸t hiÖn ra r»ng b¹n lµ mét ng­êi tèt, tr­íc ®©y chØ lµ chóng t«i hiÕm khi trß chuyÖn.	Chóa ¬i, lÇn tr­íc t«i l¹i thua nhiÒu tiÒn nh­ vËy, vî vèn kh«ng cßn n÷a!	Phô n÷ ®¸ng yªu chñ yÕu lµ b­íng bØnh.	Ai nî t«i 50 xu, kh«ng thÓ nhí ®­îc.
+43	LÇn sau khi chóng ta ®Õn TuyÒn Ch©u, chóng ta cã nÕm thö h¶i s¶n ®ã kh«ng? Uh... Anh vÉn cßn tiÒn chø?	Thiªn Chóa lµ qu¸ kh«ng c«ng b»ng, mét sè ng­êi ®­îc sinh ra ®Ñp nh­ vËy, mét sè ng­êi ®Æc biÖt xÊu xÝ.	Lµm thÕ nµo vÒ viÖc t×m kiÕm mét ®ªm tr¨ng trßn, lµm thÕ nµo ®Ó chóng t«i th­ëng thøc mÆt tr¨ng s¸ng?	Xem ra ®¹i ca gi¸o huÊn chÝnh lµ, ta kh«ng nªn dÝnh cê b¹c n÷a.	Phô n÷ tèt bông th­êng thiÕu sù quyÕn rò.	Trong nh÷ng ngµy nµy, t«i sÏ s¾p xÕp c¸c tµi kho¶n, bëi v× t«i ®· mÊt 3 xu.
+44	Ta thÝch nhÊt lµ uèng r­îu, ha ha, kh«ng gièng ng­¬i mét ngôm xuèng liÒn n»m sÊp xuèng.	B¾t ®Çu tõ h«m nay, t«i sÏ cèng hiÖp víi §øc PhËt.	GÇn ®©y t«i kh¸ xui xÎo, lu«n lu«n gÆp ph¶i mét tªn trém!	Võa råi mét nam tö ®i qua tùa hå ®ang trõng m¾t nh×n chóng ta, cã muèn söa ch÷a h¾n hay kh«ng?	Ng­êi phô n÷ cao quý tù cho m×nh lµ ®óng.	Cã mét con khØ nghÞch ngîm c­íp ngäc béi cña t«i, t«i sÏ cho nã mét chót mµu s¾c ®Ó xem!
+45	Kh«ng biÕt uèng r­îu th× kh«ng gäi ®µn «ng.	T«i thÊy anh th­êng quªn ¨n, ®iÒu nµy kh«ng tèt cho søc kháe.	Ngµy nµo chóng ta cã thÓ ®i du lÞch ®Õn §¶o Thiªn V­¬ng kh«ng?	Buæi s¸ng thøc dËy kh«ng ¨n c¬m, bông vÉn lÈm bÈm!	N÷ nh©n ®oan trang b×nh th­êng rÊt cæ hñ.	Phong c¶nh n¬i nµy cã chót nhµm ch¸n, thÕ nh­ng cã ®¹i ca ë ®©y còng sÏ kh«ng c¶m thÊy phiÒn muén.
+46	T«i cã thÓ thæi s¸o, b¹n d­êng nh­ kh«ng hiÓu nhÞp ®iÖu!	Cho dï anh cã ¨n hay kh«ng, t«i sÏ ¨n nã.	Trêi nhiÒu m©y, trêi s¾p m­a, chóng ta h·y nhanh chãng t×m mét n¬i ®Ó ë l¹i.	B©y giê ng­êi mang theo vÖ sÜ cµng ngµy cµng nhiÒu, cã khi cßn cã thÓ nh×n thÊy mü n÷ lµm vÖ sÜ!	T«i thùc sù lµ mét ng­êi thÝch sèng tù do.	Khi ®Õn nhµ hµng ¨n tèi, h·y cÈn thËn ®Ó ®Æt g¸nh nÆng cña b¹n vµ ng¨n chÆn kÎ trém.
+47	Bé d¸ng nµy cña ng­¬i rÊt khã cã n÷ nh©n nguyÖn ý ®Ó ý tíi ng­¬i!	Ng«i lµng gÇn ®ã bÞ h¹n h¸n.	T«i lµ ng­êi kh«ng thÝch nhÊt khi ng­êi kh¸c ra lÖnh cho t«i.	Ng©m m×nh trong dßng s«ng vµo nh÷ng ngµy n¾ng nãng lµ tho¶i m¸i nhÊt.	MÆc dï ®i theo anh trai kh«ng ph¶i lµ nh÷ng g× t«i lu«n lu«n khao kh¸t, nh­ng t«i c¶m thÊy cuéc sèng nh­ vËy còng tèt.	Mét ngµy nµo ®ã ngùa cña ®¹i ca còng cho ta c­ìi, ha ha.
+48	Cuéc sèng ®Çy mµu s¾c, t¹i sao b¹n lu«n lu«n lµm cho m×nh véi vµng nh­ vËy?	T«i trång c©y ®µo, b©y giê nªn ph¸t triÓn rÊt cao.	T«i cè g¾ng lµm vÖ sÜ giái nhÊt cã thÓ.	Tæ yÕn ®­êng phÌn hÇm tuyÕt lª lµ mãn tr¸ng miÖng quý gi¸, chØ cã nhµ giµu míi cã thÓ ¨n ®­îc.	Cµnh liÔu sÏ l¾c l­ theo giã, gièng nh­ mét vò n÷ nh¶y móa.	T«i lµ mét ng­êi ®µn «ng téi nghiÖp, vµ b©y giê t«i thËm chÝ kh«ng cã mét ng­êi vî!
+49	NÕu b¹n thÊt t×nh, h·y ch¾c ch¾n ®Ó xem xÐt, ®iÒu nµy chØ cã thÓ cho thÊy b¹n cã vÊn ®Ò víi chÝnh m×nh.	Con ng­êi kh«ng thÓ qu¸ b­íng bØnh, v× vËy hä chØ cã thÓ lµm tæn th­¬ng chÝnh m×nh.	TiÕn NhËt c«ng phu cña ng­¬i tiÕn bé kh«ng Ýt a!	Cuèi cïng mong ®îi mïa thu, thêi gian tho¶i m¸i nhÊt ah.	§ét nhiªn c¶m thÊy rÊt mÖt mái, chóng t«i nghØ ng¬i ë phÝa tr­íc!	¤å? H«m nay anh ®· thay ®æi bé quÇn ¸o míi, kh«ng tÖ!
+50	Than «i, sau khi ë bªn anh, t«i ch­a bao giê ¨n bÊt cø thø g× tèt.	S«ng Hoµng Hµ l¹i trµn lan.	MÆt trêi h«m nay thùc sù chãi m¾t.	Ng­êi cña Ngò §éc Gi¸o thËt kh«ng dÔ chäc, sau nµy gÆp ph¶i chóng ta nhÊt ®Þnh ph¶i nÐ tr¸nh.	Kh¸t n­íc, t«i ®i lÊy n­íc suèi ®Ó uèng.	Ta c¶m thÊy ®¹i ca ng­¬i rÊt ®ñ t­ c¸ch, th­êng v× chiÕu cè ta quªn ®i chuyÖn cña m×nh.

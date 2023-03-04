@@ -1,5 +1,5 @@
 Characteristic	VisionRadius	ActiveRadius	ForceSync	AIMaxTime	AIMode	AIParam1	AIParam2	AIParam3	AIParam4	AIParam5	AIParam6	AIParam7	AIParam8	AIParam9	AIParam10	NPCName
-1	500	500	800	6	21	100	0	0	0	0	0	0	0	0	¹¥»÷Àë×ÔÉí×î½üµÄµĞÈË	ÓÂÃÍ
-2	400	400	800	6	22	100	0	0	0	0	0	0	0	0	¹¥»÷¶ÔÖ÷ÈËÔì³ÉÉËº¦µÄµĞÈË	ÎÀÖ÷
-3	500	500	800	6	23	100	20	50	0	0	0	0	0	0	¹¥»÷HP×îÉÙµÄµĞÈË	Á÷Ã¥
-4	400	400	800	6	24	100	20	60	30	0	0	0	0	0	Ëæ»ú¹¥»÷µĞÈË	Å³Èõ
+1	500	500	800	6	21	100	0	0	0	0	0	0	0	0	C«ng kİch ®Şch nh©n gÇn nhÊt	Dòng M·nh
+2	400	400	800	6	22	100	0	0	0	0	0	0	0	0	TÊn c«ng cïng chñ nh©n	VÖ Chñ
+3	500	500	800	6	23	100	20	50	0	0	0	0	0	0	C«ng kİch ®Şch nh©n İt HP nhÊt	L­u Manh
+4	400	400	800	6	24	100	20	60	30	0	0	0	0	0	C«ng kİch ngÉu nhiªn	Nhu Nh­îc
