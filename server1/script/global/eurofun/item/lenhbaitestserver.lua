@@ -23,6 +23,7 @@ Include("\\script\\task\\metempsychosis\\npc_saodiseng.lua")
 Include("\\script\\global\\titlefuncs.lua")
 Include( "\\script\\lib\\string.lua" );
 Include( "\\script\\item\\item_header.lua" );
+Include("\\script\\global\\thinh\\hotro\\functions_partner.lua")
 
 TITLEDIALOG = "Tªn nh©n vËt: <color=green>%s<color>\n".."Tªn tµi kho¶n: <color=green>%s<color>\n".."Täa ®é: <color=green>%d, %d/%d<color>"
 
@@ -30,6 +31,7 @@ function main()
 	dofile("script/global/eurofun/item/lenhbaitestserver.lua")
     local nW,nX,nY = GetWorldPos()
     local tbSay = {format(TITLEDIALOG, GetName(), GetAccount() ,nW,nX,nY)}
+    tinsert(tbSay, "C¸c chøc n¨ng cho §ång Hµnh/functions_for_partner")
     tinsert(tbSay, "LÊy ITEM (MagicScript,QuesKey, Gold Item)/TaoItem")
     tinsert(tbSay, "LÊy list ®å hoµng kim/Goldequip")
     tinsert(tbSay, "LÊy ®å tÝm/CreateItemPurple")
