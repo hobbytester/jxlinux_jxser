@@ -24,6 +24,8 @@ Include("\\script\\global\\titlefuncs.lua")
 Include( "\\script\\lib\\string.lua" );
 Include( "\\script\\item\\item_header.lua" );
 Include("\\script\\global\\thinh\\hotro\\functions_partner.lua")
+Include("\\script\\global\\eurofun\\hotro\\thien_trung_lau.lua")
+
 
 TITLEDIALOG = "Tªn nh©n vËt: <color=green>%s<color>\n".."Tªn tµi kho¶n: <color=green>%s<color>\n".."Täa ®é: <color=green>%d, %d/%d<color>"
 
@@ -39,6 +41,7 @@ function main()
     tinsert(tbSay, "Hñy vËt phÈm/DisposeItem")
     tinsert(tbSay, "Söa lçi ThÇn Hµnh Phï/fixthanhanhphu")
     tinsert(tbSay,"Thao t¸c lªn ng­êi ch¬i./luachonid1")
+    tinsert(tbSay, "Më Thiªn Trïng L©u/thientrunglau")
     tinsert(tbSay,"TriÖu håi lÖnh bµi test cò (!)./SummonLegacy")
     tinsert(tbSay, "KÕt thóc ®èi tho¹i./no")
     CreateTaskSay(tbSay)
